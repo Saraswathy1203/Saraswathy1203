@@ -1,9 +1,14 @@
-# Hi there I'm Saraswathy 👋
+# Hi there I'm Saraswathy 
 
-- 🎓Electronics & Communication Engineering Student @ SASTRA UNIVERSITY
-- 🤖 AI & Computer Vision Enthusiast  
-- 💻 Building real-time projects
+Hi there! I'm Saraswathy 👋
+
+- 🎓 Electronics & Communication Engineering @ SASTRA UNIVERSITY
+- 📊 Aspiring Data Analyst | Python | SQL | Data Visualization
+- 🤖 AI & Machine Learning Enthusiast
+- 💻 Building real-time and data-driven projects
+- 🚀 Interested in Data Analytics, AI/ML & Software Development
 - 🤝 Open to collaboration on innovative tech projects
+- 🔗 [LinkedIn](YOUR_LINKEDIN_URL)
 - <a href="https://www.linkedin.com/in/saraswathy1203/" target="_blank">
   🔗 LinkedIn
 </a>
