@@ -1,7 +1,5 @@
 # Hi there I'm Saraswathy 
 
-Hi there! I'm Saraswathy 👋
-
 - 🎓 Electronics & Communication Engineering @ SASTRA UNIVERSITY
 - 📊 Aspiring Data Analyst | Python | SQL | Data Visualization
 - 🤖 AI & Machine Learning Enthusiast
