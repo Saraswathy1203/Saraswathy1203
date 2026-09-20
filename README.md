@@ -8,7 +8,7 @@ Hi there! I'm Saraswathy 👋
 - 💻 Building real-time and data-driven projects
 - 🚀 Interested in Data Analytics, AI/ML & Software Development
 - 🤝 Open to collaboration on innovative tech projects
-- 🔗 [LinkedIn](YOUR_LINKEDIN_URL)
+
 - <a href="https://www.linkedin.com/in/saraswathy1203/" target="_blank">
   🔗 LinkedIn
 </a>
